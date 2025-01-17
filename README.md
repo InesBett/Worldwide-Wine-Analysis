@@ -92,6 +92,14 @@ Every bottle of wine is more than just a beverage—it’s a story of its roots,
 
 The next time you enjoy a glass, take a moment to appreciate the legacy poured into it—a region’s story, crafted into liquid art.
 
+# SQL queries
+As part of my data analysis process, I have included an SQL file containing some of the queries I used. While I’m still in the early stages of learning SQL, these queries helped me explore and manipulate the dataset. The file includes:
+- Data extraction techniques
+- Basic aggregations and filtering
+
+These queries can serve as a reference for others, particularly those who are also starting to explore SQL and data analysis. 
+The SQL file can be found in this repository.
+
 # Interactive Tools
 Tableau Dashboards: [[Tableau Dashboard](https://public.tableau.com/app/profile/in.s.bettencourt/viz/WorlwineWineAnalysis/Dashboard1?publish=yes)]
 Canvas Presentation [[Presentation](https://www.canva.com/design/DAGb1fr85Yk/7DvWZmBNBmlibF8GqfCzuw/edit))]
