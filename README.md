@@ -94,7 +94,7 @@ The next time you enjoy a glass, take a moment to appreciate the legacy poured i
 
 # Interactive Tools
 Tableau Dashboards: [[Tableau Dashboard](https://public.tableau.com/app/profile/in.s.bettencourt/viz/WorlwineWineAnalysis/Dashboard1?publish=yes)]
-Canvas Presentation [[Presentation][(https://www.canva.com/design/DAGb1fr85Yk/7DvWZmBNBmlibF8GqfCzuw/edit))]
+Canvas Presentation [[Presentation](https://www.canva.com/design/DAGb1fr85Yk/7DvWZmBNBmlibF8GqfCzuw/edit))]
 
 # About the Author
 
