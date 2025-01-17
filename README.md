@@ -27,6 +27,9 @@ The dataset comprises 1,012 wines from various countries, with detailed informat
 
 **Year of Production**: Offering insights into aging potential.
 
+<img width="730" alt="Captura de ecrã 2025-01-17 211251" src="https://github.com/user-attachments/assets/83092103-5cc3-4e44-b9e5-be713abb7a28" />
+
+
 # Workflow ⚙️
 A structured approach was key to this analysis. Below is the flowchart guiding the process:
 
@@ -91,7 +94,7 @@ The next time you enjoy a glass, take a moment to appreciate the legacy poured i
 
 # Interactive Tools
 Tableau Dashboards: [[Tableau Dashboard](https://public.tableau.com/app/profile/in.s.bettencourt/viz/WorlwineWineAnalysis/Dashboard1?publish=yes)]
-Canvas Presentation [[Presentation](https://www.canva.com/design/DAGb1fr85Yk/7DvWZmBNBmlibF8GqfCzuw/editutm_content=DAGb1fr85Yk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))]
+Canvas Presentation [[Presentation][(https://www.canva.com/design/DAGb1fr85Yk/7DvWZmBNBmlibF8GqfCzuw/edit))]
 
 # About the Author
 
